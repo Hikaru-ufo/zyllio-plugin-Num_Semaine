@@ -4,6 +4,7 @@
   "author": "Hikaru.ufo",
   "developer": "Hikaru",
   "creator": "Serenitix",
+  "icon": "https://studio.zyllio.com/assets/icon.png",
   "description": "Plugin pour calculer le numéro de semaine",
   "functions": ["week-number"]
 }
