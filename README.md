@@ -1,2 +1,2 @@
 # zyllio-plugin
-Pour déposer les plugins Zyllio
+Plugin Zyllio pour calculer le numéro de semaine
