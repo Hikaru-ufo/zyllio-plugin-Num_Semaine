@@ -1,10 +1,10 @@
 {
-  "name": "Fonctions Date Avancées",
+  "name": "Fonctions Date Avancées Num Semaine",
   "version": "1.0.2",
   "author": "Hikaru.ufo",
   "developer": "Hikaru",
   "creator": "Serenitix",
-  "icon": "https://studio.zyllio.com/assets/icon.png",
+  "icon": "https://cdn.jsdelivr.net/gh/Hikaru-ufo/images/icones/icone-serenitix-s.png",
   "description": "Plugin pour calculer le numéro de semaine",
-  "functions": ["week-number"]
+  "functions": ["num-semaine"]
 }
