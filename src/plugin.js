@@ -39,7 +39,7 @@
   const WeekNumberMetadata = {
     id: 'week-number',
     icon: IconData,
-    label: 'Week Number',
+    label: 'Num Semaine',
     category: 'Plugins',
     format: 'number',
     properties: [{
