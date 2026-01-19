@@ -1,6 +1,6 @@
 (function () {
 
-  console.log('Plugin Week Number started')
+  console.log('Plugin Num Semaine started')
 
   class WeekNumberFunction {
 
